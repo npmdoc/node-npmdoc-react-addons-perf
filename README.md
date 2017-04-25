@@ -1,4 +1,7 @@
-# api documentation for  [react-addons-perf (v15.4.2)](https://github.com/facebook/react#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-addons-perf.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-addons-perf) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-addons-perf.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-addons-perf)
+# npmdoc-react-addons-perf
+
+#### basic api documentation for  [react-addons-perf (v15.4.2)](https://github.com/facebook/react#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-addons-perf.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-addons-perf) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-addons-perf.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-addons-perf)
+
 #### This package provides the React Perf add-on.
 
 [![NPM](https://nodei.co/npm/react-addons-perf.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/react-addons-perf)
@@ -78,7 +81,8 @@
         "url": "git+https://github.com/facebook/react.git"
     },
     "scripts": {},
-    "version": "15.4.2"
+    "version": "15.4.2",
+    "bin": {}
 }
 ```
 
